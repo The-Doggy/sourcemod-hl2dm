@@ -21,7 +21,7 @@ public void OnMapStart()
         gRound.sModeDescription[0] = '\0';
     }
 
-    Steam_SetGameDescription(sModeDesc);
+    SteamWorks_SetGameDescription(sModeDesc);
 
     PrepareSound(SOUND_GG);
     PrepareSound(SOUND_VOTECALLED);
