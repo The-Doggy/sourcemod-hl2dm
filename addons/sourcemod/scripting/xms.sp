@@ -22,7 +22,7 @@ public Plugin myinfo = {
 #include <clientprefs>
 #include <steamtools>
 #include <smlib>
-#include <sdkhooks>
+#include <SteamWorks>
 #include <entitylump>
 #include <vphysics>
 #include <morecolors>
